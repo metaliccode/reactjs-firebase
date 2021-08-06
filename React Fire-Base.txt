@@ -1,0 +1,11 @@
+Membuat akun firebase :
+search console.firebase :
+https://console.firebase.google.com/
+
+refactoring directoriy dengan atomic design
+
+
+npm install --save firebase
+
+1. integration fire base dengan project kita 
+2. 
